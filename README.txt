@@ -18,7 +18,8 @@ Alarm signals for periodic behavior
 Input multiplexing with poll()
 Multiple threads in the client to handle typed input versus info from the server
 
-By,
+Team Member Names
+------------------
 - Name  : Ace Kaung
 - Email : kaung006@umn.edu
 
